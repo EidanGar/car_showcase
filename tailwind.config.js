@@ -22,12 +22,13 @@ module.exports = {
           DEFAULT: "rgba(59,60,152,0.03)",
           100: "rgba(59,60,152,0.02)",
         },
+        "primary-grey": "#F6F7F9",
         grey: "#747A88",
       },
       backgroundImage: {
-        'pattern': "url('/pattern.png')",
-        'hero-bg': "url('/hero-bg.png')"
-      }
+        pattern: "url('/pattern.png')",
+        "hero-bg": "url('/hero-bg.png')",
+      },
     },
   },
   plugins: [],
